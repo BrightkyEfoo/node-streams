@@ -110,4 +110,4 @@ Ce code lit un fichier, convertit toutes les lettres en majuscules et écrit le 
 Ces exemples ne sont que quelques exemples courants de l'utilisation des flux Node.js. Les flux peuvent être utilisés dans une variété de cas pour gérer efficacement les données.
 
 
-**BrightEfoo**
+**BrightkyEfoo**
